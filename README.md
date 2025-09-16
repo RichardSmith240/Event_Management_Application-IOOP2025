@@ -1,4 +1,4 @@
-# Event Management
+# Management Application Software
 > [!Note]
 > This is not a complete project and will not be ready for use until this message is deleted
 
